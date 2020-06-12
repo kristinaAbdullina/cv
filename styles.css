@@ -1,0 +1,21 @@
+body {
+background-color: #f4f7c5;
+}
+
+hr {
+background-color: none;
+border-style: dotted none none;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+img{
+  height: 250px;
+}
+h1{
+  color: #e84a5f;
+}
+h3 {
+  color: #e84a5f;
+  font-family: "Limelight";
+}
